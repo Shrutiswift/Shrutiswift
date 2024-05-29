@@ -1,6 +1,6 @@
 ### Hi! Nice to see you👋
 
-- Welcome to my Profile!
+- Welcome to my Page!
 - I am Shruti, Fullstack developer from Jaipur Rajasthan, currently living in Mohali, Punjab
 ---
 
