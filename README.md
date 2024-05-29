@@ -1,9 +1,6 @@
 ### Hi, I am Shruti👋
 
-- 🌱 I’m currently learning React and a little bit of Salesforce.
-- 📫 Reach me: shrutiswift@gmail.com/ https://www.linkedin.com/in/shruti-sharma-ab3788201/
-- 😄 Pronouns: She/her
-
+- Welcome to my Profile
 
 ---
 
