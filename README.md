@@ -1,4 +1,4 @@
-# Hey! Nice to see you👋
+# Hey 👋 My Name is Shruti Sharma
 
 - I am Shruti
 ---
