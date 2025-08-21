@@ -1,6 +1,6 @@
 # Hey 👋 My Name is Shruti Sharma
 
-- I am Shruti
+## Software Engineer 
 ---
 
 ### Languages:
