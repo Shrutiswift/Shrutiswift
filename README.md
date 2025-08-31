@@ -3,7 +3,7 @@
 ## Software Engineer 
 
 - 👩‍💻 I'm Working at **Reomagin** as an Associate Software Engineer 
-- 🔭 I'm Learning **Salesforce integrations, automations, and Lightning Web Components (LWC), Revenue Cloud Advanced**  
+- 🔭 I'm Learning Salesforce integrations, automations, Lightning Web Components (LWC) and Revenue Cloud Advanced 
 - 🌱 You can connect me at shrutiswift@gmail.com 
 
 ### Skills:
