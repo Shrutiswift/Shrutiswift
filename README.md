@@ -20,8 +20,3 @@
 </div>
 
 
-### My Github Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrutiswift&theme=gotham)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutiswift&layout=compact&theme=gotham)](https://github.com/Shrutiswift/github-readme-stats)
-
