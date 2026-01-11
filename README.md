@@ -1,4 +1,4 @@
-# Hey 👋 My Name is Shruti Sharma
+# Hey 👋 My Name is Shruti 
 
 ## Software Engineer 
 
